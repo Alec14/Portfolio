@@ -1,4 +1,3 @@
-# Portfolio
-A demonstration of Data Science projects
 
-# Project 1: Response modelling for bank direct marketing campaign
+
+# Project 1: Response modelling 响应率预测
